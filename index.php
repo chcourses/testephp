@@ -1,3 +1,3 @@
 <?
-    echo "Hello world - Git's test";
+    echo "Doc alterado";
 ?>
